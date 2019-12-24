@@ -606,7 +606,7 @@ scene.run();
 
 // const pointer = new Pointer(canvas);
 
-var phrase = '  CRMEB ';
+var phrase = '  手机商城系统 ';
 
 var r = new Rope({
     x: scene.canvas.width * 0.15,

@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="renderer" content="webkit">
     <title>登录管理系统 -  Powered by 正荣财富!</title>
-    <meta name="generator" content="CRMEB! v2.5" />
-    <meta name="author" content="CRMEB! Team and CRMEB UI Team" />
+    <meta name="generator" content="phone shop" />
+    <meta name="author" content="phone shop" />
     <link href="{__FRAME_PATH}css/bootstrap.min.css?v=3.4.0" rel="stylesheet">
     <link href="{__FRAME_PATH}css/font-awesome.min.css?v=4.3.0" rel="stylesheet">
     <link href="{__FRAME_PATH}css/animate.min.css" rel="stylesheet">
@@ -20,7 +20,7 @@
 <div class="middle-box text-center loginscreen  animated fadeInDown">
     <div class="login-group">
         <h3 class="login-logo">
-            <img src="{__ADMIN_PATH}images/logo.png">
+            <img src="{__ADMIN_PATH}images/logophone.jpg">
         </h3>
         <form role="form" action="{:url('verify')}" method="post">
             <div class="form-group">
